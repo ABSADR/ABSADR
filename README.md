@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABSADR
-- 👀 I’m interested in pygame & app dev
+- 👀 I’m interested in pygame & app dev & django
 - 🌱 I’m currently still learning python
 - 💞️ I’m looking to collaborate on anything that could help me boost my knowledge
 - 📫 How to reach me adrianparaschiv179@gmail.com
